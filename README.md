@@ -1,8 +1,7 @@
-Square Open Source Portal
+Inmite Developer Landing Page
 =========================
 
-A simple, static portal which outlines our open source offerings. Intentionally
-themed to look like a merchant page on the directory.
+A simple, static portal which outlines our open source offerings. It is based on similar page from Square: https://github.com/square/square.github.io
 
 
 Development
