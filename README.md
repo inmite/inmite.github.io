@@ -1,4 +1,4 @@
-Inmite Developer Landing Page
+Inmite Developers Landing Page
 =========================
 
 A simple, static portal which outlines our open source offerings. It is based on similar page from Square: https://github.com/square/square.github.io
