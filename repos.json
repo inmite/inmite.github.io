@@ -1,0 +1,11 @@
+{
+  "repos": {
+    "android-butterknife-zelezny": ["Android"],
+    "android-validation-komensky": ["Android"],
+    "android-selector-chapek": ["Android"],
+    "android-grid-wichterle": ["Android"],
+    "android-styled-dialogs": ["Android"]
+  },
+  "custom": [
+  ]
+}
