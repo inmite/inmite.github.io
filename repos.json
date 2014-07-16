@@ -4,7 +4,8 @@
     "android-validation-komensky": ["Android"],
     "android-selector-chapek": ["Android"],
     "android-grid-wichterle": ["Android"],
-    "android-styled-dialogs": ["Android"]
+    "android-styled-dialogs": ["Android"],
+    "chrome-package-hilgertova": ["Chrome"]
   },
   "custom": [
   ]
